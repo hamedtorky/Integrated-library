@@ -5,5 +5,7 @@ component :
 
 
 AT45DB321D-SU
+
 DFPlayer
+
 ISL32704EIBZ
